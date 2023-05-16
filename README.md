@@ -18,7 +18,7 @@
 1. Composer 安装。
 
    ```bash
-   composer require cccyun/alipay-sdk
+   composer require tinymeng/alipay-sdk -vvv
    ```
 
 2. 创建配置文件 [`config.php`](./examples/config.php)，填写配置信息。
