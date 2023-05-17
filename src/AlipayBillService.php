@@ -1,6 +1,6 @@
 <?php
 
-namespace Alipay;
+namespace tinymeng\Alipay;
 
 /**
  * 支付宝账单服务类

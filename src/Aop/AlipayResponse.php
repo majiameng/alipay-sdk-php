@@ -1,6 +1,6 @@
 <?php
 
-namespace Alipay\Aop;
+namespace tinymeng\Alipay\Aop;
 
 class AlipayResponse
 {

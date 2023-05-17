@@ -22,7 +22,7 @@ $bizContent = [
 
 //发起支付请求
 try{
-    $aop = new \Alipay\AlipayTradeService($alipay_config);
+    $aop = new \tinymeng\Alipay\AlipayTradeService($alipay_config);
     $result = $aop->appPay($bizContent);
     echo $result; //SDK请求串
 }catch(Exception $e){
