@@ -17,9 +17,12 @@
 
 1. Composer 安装。
 
-   ```bash
-   composer require tinymeng/alipay-sdk -vvv
-   ```
+```bash
+composer require tinymeng/alipay-sdk -vvv
+```
+
+> 类库使用的命名空间为`\\tinymeng\\Alipay`
+> 
 
 2. 创建配置文件 [`config.php`](./examples/config.php)，填写配置信息。
 
